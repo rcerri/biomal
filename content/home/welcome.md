@@ -12,4 +12,4 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-Bla Bla
+Bla Bla bla bla bla bla
