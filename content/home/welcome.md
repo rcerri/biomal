@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: Update lab name
+widget_id: Update laboratory name
 headless: true
 weight: 10
 title: Bioinformatics and Machine Learning Group
