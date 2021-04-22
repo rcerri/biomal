@@ -1,7 +1,7 @@
 ---
 title: Ricardo Cerri
 role: Professor de Computação
-avatar_filename: eu1-resize-2.jpg
+avatar_filename: https://www.dropbox.com/s/a4k4x0ae12rcpc9/Eu1.jpg?dl=0
 bio: My research interests include bla distributed robotics, mobile computing
   and programmable matter.
 interests:
