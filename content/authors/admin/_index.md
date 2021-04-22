@@ -1,6 +1,6 @@
 ---
 title: Ricardo Cerri
-role: Professor of Artificial Intelligence
+role: Professor de Computação
 avatar_filename: eu1-resize-2.jpg
 bio: My research interests include bla distributed robotics, mobile computing
   and programmable matter.
