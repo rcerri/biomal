@@ -16,12 +16,11 @@ design:
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: 3000
+interval: 4000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 500px
-width: 100px
+height: 450px
 
 item:
   - title: ""
@@ -44,7 +43,7 @@ item:
     content: ""
     align: center
     overlay_color: ''  # An HTML color value.
-    overlay_img: Christinelli-Sensors-2021.png  # Image path relative to your `assets/media/` folder
+    overlay_img: Christinelli-Sensors-2021-b.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
