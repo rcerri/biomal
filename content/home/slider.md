@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image_position: center
+    image_position: aligned
     image_size: cover
     image_parallax: true
 
@@ -41,7 +41,7 @@ item:
     #cta_icon: graduation-cap
   - title: ""
     content: ""
-    # align: center
+    align: aligned
     overlay_color: ''  # An HTML color value.
     overlay_img: Christinelli-Sensors-2021-d.png  # Image path relative to your `assets/media/` folder
     height: 300
