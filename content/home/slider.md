@@ -19,8 +19,8 @@ interval: false
 height: 300px
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: ""
+    content: ""
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -31,7 +31,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
+    cta_label: ""
     cta_url: 'https://example.org'
     cta_icon_pack: fas
     cta_icon: graduation-cap
