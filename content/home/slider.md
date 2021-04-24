@@ -10,7 +10,7 @@ design:
     text_color_light: false
     image_darken: 0
     image_position: center
-    image_size: cover
+    image_size: actual
     #image_parallax: true
 
 # Slide interval.
