@@ -41,9 +41,9 @@ item:
     #cta_icon: graduation-cap
   - title: ""
     content: ""
-    align: center
+    # align: center
     overlay_color: ''  # An HTML color value.
-    overlay_img: Christinelli-Sensors-2021-e.png  # Image path relative to your `assets/media/` folder
+    overlay_img: Christinelli-Sensors-2021-d.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
