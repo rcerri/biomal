@@ -4,6 +4,7 @@ widget_id: slider
 headless: true
 weight: 10
 active: true
+
 design:
   columns: "1"
   background:
@@ -20,6 +21,7 @@ interval: 3000
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
 height: 450px
+width = 600px
 
 item:
   - title: ""
@@ -46,8 +48,6 @@ item:
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
-    height = "25vh"
-    width = "25vh"
   - title: ""
     content: ""
     align: center
