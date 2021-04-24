@@ -6,7 +6,7 @@ widget: hero
 widget_id: Update laboratory name
 headless: true
 weight: 5
-title: BioMal
+title: ""
 subtitle: ""
 design:
   columns: "2"
