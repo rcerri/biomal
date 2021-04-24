@@ -24,7 +24,7 @@ height: 300px
 
 item:
   - title: ""
-    content: ""
+    content: Workshop-Python-2018.jpg
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
