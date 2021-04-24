@@ -12,7 +12,7 @@ design:
     image_darken: 0
     image_position: center
     image_size: cover
-    #image_parallax: true
+    image_parallax: true
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
