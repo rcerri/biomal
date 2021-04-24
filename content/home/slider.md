@@ -5,10 +5,11 @@ headless: true
 weight: 10
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
+    image_position: center
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
