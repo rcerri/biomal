@@ -38,16 +38,74 @@ item:
     cta_url: ""
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
-    align: left
-    overlay_color: '#555'
-    overlay_img: ''
-    overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
-    overlay_color: '#333'
-    overlay_img: ''
-    overlay_filter: 0.5
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: Christinelli-Sensors-2021.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: Miranda-ESWA-2021.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: Amaral-Comp-Bioch-2019.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: ASOC-Cerri-2019.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: Plos-Schietgat-2018.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: BMC-Cerri-2016.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+  - title: ""
+    content: ""
+    align: center
+    overlay_color: ''  # An HTML color value.
+    overlay_img: Bioinfo-Fischer-2015.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
+    cta_label: ""
+    cta_url: ""
+    
+    
+  #- title: Left
+  #  content: 'I am left aligned 😄'
+  #  align: left
+  #  overlay_color: '#555'
+  #  overlay_img: ''
+  #  overlay_filter: 0.5
+  #- title: Right
+  #  content: 'I am right aligned 😄'
+  #  align: right
+  #  overlay_color: '#333'
+  #  overlay_img: ''
+  #  overlay_filter: 0.5
 ---
