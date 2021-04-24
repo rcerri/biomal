@@ -10,8 +10,8 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image_position: center
-    image_size: actual
+    image_position: "center"
+    image_size: "cover"
     #image_parallax: true
 
 # Slide interval.
@@ -20,7 +20,7 @@ interval: 4000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 450px
+# height: 450px
 
 item:
   - title: ""
@@ -43,11 +43,10 @@ item:
     content: ""
     align: center
     overlay_color: ''  # An HTML color value.
-    overlay_img: Christinelli-Sensors-2021-b.png  # Image path relative to your `assets/media/` folder
+    overlay_img: Christinelli-Sensors-2021.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
-    height: 450px
   - title: ""
     content: ""
     align: center
