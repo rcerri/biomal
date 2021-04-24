@@ -2,7 +2,7 @@
 widget: slider
 widget_id: slider
 headless: true
-weight: 10
+weight: 50
 active: true
 
 design:
@@ -43,7 +43,7 @@ item:
     content: ""
     align: center
     overlay_color: ''  # An HTML color value.
-    overlay_img: Christinelli-Sensors-2021.png  # Image path relative to your `assets/media/` folder
+    overlay_img: Christinelli-Sensors-2021-c.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
