@@ -20,11 +20,11 @@ interval: 4000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 300px
+height: 400px
 
 item:
   - title: ""
-    content: Workshop-Python-2018.jpg
+    content: ""
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
