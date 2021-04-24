@@ -33,8 +33,8 @@ item:
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: ""
     cta_url: ""
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
+    #cta_icon_pack: fas
+    #cta_icon: graduation-cap
   - title: Left
     content: 'I am left aligned 😄'
     align: left
