@@ -44,9 +44,11 @@ item:
     # align: center
     overlay_color: ''  # An HTML color value.
     overlay_img: Christinelli-Sensors-2021-d.png  # Image path relative to your `assets/media/` folder
+    height="300"
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
+
   - title: ""
     content: ""
     align: center
