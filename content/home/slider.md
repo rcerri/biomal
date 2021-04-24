@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image_position: aligned
+    image_position: center
     image_size: cover
     image_parallax: true
 
@@ -26,7 +26,7 @@ item:
   - title: ""
     content: ""
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: aligned
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: ''  # An HTML color value.
