@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: Update laboratory name
 headless: true
-weight: 10
+weight: 20
 title: ""
 subtitle: ""
 design:
