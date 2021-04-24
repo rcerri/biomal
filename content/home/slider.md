@@ -11,7 +11,7 @@ design:
     image_darken: 0
     image_position: center
     image_size: contain
-    image_parallax: false
+    image_parallax: true
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -19,7 +19,7 @@ interval: 3000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 400px
+height: 500px
 
 item:
   - title: ""
