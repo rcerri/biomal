@@ -47,6 +47,7 @@ item:
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     cta_label: ""
     cta_url: ""
+    height: 450px
   - title: ""
     content: ""
     align: center
