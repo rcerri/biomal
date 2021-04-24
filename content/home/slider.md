@@ -10,6 +10,7 @@ design:
     text_color_light: false
     image_darken: 0
     image_position: center
+    image_size: cover
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
