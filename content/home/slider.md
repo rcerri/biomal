@@ -10,7 +10,7 @@ design:
     text_color_light: false
     image_darken: 0
     image_position: center
-    image_size: actual
+    image_size: contain
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -30,7 +30,6 @@ item:
     overlay_color: ''  # An HTML color value.
     overlay_img: Workshop-Python-2018.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
-    image_size: actual
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
