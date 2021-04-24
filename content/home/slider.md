@@ -1,7 +1,7 @@
 ---
 widget: slider
 widget_id: slider
-headless: false
+headless: true
 weight: 10
 active: true
 
