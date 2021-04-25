@@ -8,6 +8,7 @@ headless: true
 weight: 20
 title: ""
 subtitle: ""
+active: true
 design:
   columns: "2"
 hero_media: logofinalBioMal-2.PNG
