@@ -1,7 +1,7 @@
 ---
 widget: slider
 interval: 4000
-active: false
+active: true
 height: 300px
 item:
   - title: ""
