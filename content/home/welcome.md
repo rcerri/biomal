@@ -15,6 +15,8 @@ design:
     image: ""
 hero_media: logofinalBioMal-2.PNG
 ---
+**About**
+
 The Bioinformatics and Machine Learning Group was founded in 2015, in the Department of Computer Science, Federal University of São Carlos, São Carlos, Brazil. Our research focus is the development and application of Machine Learning methods mainly to solve Biology-related problems.
 
 **Join the Team**
