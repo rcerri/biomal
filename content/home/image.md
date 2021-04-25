@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: /static/media/coders.jpg
+    image: /static/media/logofinalBioMal-2.PNG
     image_darken: 0
     image_parallax: false
     image_position: center
