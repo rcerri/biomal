@@ -13,22 +13,22 @@
   url = "post"
   weight = 20
 
-#[[main]]
+[[main]]
   name = "People"
   url = "people"
   weight = 30
 
-#[[main]]
+[[main]]
   name = "Events"
   url = "event"
   weight = 40
 
-#[[main]]
+[[main]]
   name = "Publications"
   url = "publication"
   weight = 50
 
-#[[main]]
+[[main]]
   name = "Contact"
   url = "contact"
   weight = 60
