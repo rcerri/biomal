@@ -1,9 +1,8 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: New research project approved with a grant from Fundação Serrapilheira
 date: 2020-12-01
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+The project will investigate and propose new evolutionary approaches to automatically evolve deep neural networks. This is a collaboration with [Prof. Marcio P. Basgalupp](https://sites.google.com/site/basgalupp/home) from [Federal University of São Paulo](https://www.unifesp.br/campus/sjc/).
 
 <!--more-->
 
