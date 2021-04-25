@@ -6,7 +6,7 @@ weight: 30
 title: Latest News
 subtitle: null
 content:
-  count: 5
+  count: 10
   filters:
     author: ""
     category: ""
