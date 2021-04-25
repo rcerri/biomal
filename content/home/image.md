@@ -7,7 +7,7 @@ headless: true
 weight: 10
 title: null
 subtitle: null
-active: true
+active: false
 design:
   columns: "1"
   background:
